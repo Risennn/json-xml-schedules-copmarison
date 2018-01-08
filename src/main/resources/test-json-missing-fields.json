@@ -1,0 +1,476 @@
+{
+  "result": "ok",
+  "data": [
+    {
+      "id": 295,
+      "external_id": 295,
+      "title": "1+1",
+      "programs": [
+        {
+          "external_id": 324165,
+          "object_id": null,
+          "year": "2005-",
+          "title": "\"Светская жизнь. Новогодний карнавал\".",
+          "description": "Интервью во время светских мероприятий с богатыми и знаменитыми персонами, которые волей-неволей раскрывают свои и даже чужие тайны. Украина, 2005-.",
+          "schedule_string": null,
+          "genre": {
+            "id": 134,
+            "external_id": 134,
+            "title": "знаменитости"
+          },
+          "category": {
+            "id": 8,
+            "external_id": 8,
+            "title": "Другое"
+          },
+          "pictures": {},
+          "virtual_object_id": "5a4740cfc4d2d662acae86bf",
+
+
+
+
+
+          "grouped_programs": null,
+          "schedule_type": "single"
+        },
+        {
+          "external_id": 324161,
+          "object_id": null,
+          "year": null,
+          "title": "Х/ф \"1+1 дома\".",
+          "description": null,
+          "schedule_string": null,
+          "genre": {
+            "id": 161,
+            "external_id": 161,
+            "title": "Другое"
+          },
+          "category": {
+            "id": 2,
+            "external_id": 2,
+            "title": "кино"
+          },
+          "pictures": {},
+          "virtual_object_id": "5a4740c8c4d2d662acae83cb",
+          "start": "Jan 6, 2018 2:15:00 PM",
+          "start_timestamp": 1515240900,
+          "end": "Jan 6, 2018 4:35:00 PM",
+          "end_timestamp": 1515249300,
+          "grouped_programs": null,
+          "schedule_type": "single"
+        },
+        {
+          "external_id": 16708,
+          "object_id": null,
+          "year": "2005-",
+          "title": "\"Вечерний квартал\".",
+          "description": "Шоу, участники которого интерпретируют события, происходящие в общественно-политической жизни страны, через призму здоровой иронии и сарказма. Украина, 2005-. В ролях: Владимир Зеленский, Евгений Кошевой, Елена Кравец.",
+          "schedule_string": null,
+          "genre": {
+            "id": 10,
+            "external_id": 10,
+            "title": "юмор"
+          },
+          "category": {
+            "id": 8,
+            "external_id": 8,
+            "title": "Другое"
+          },
+          "pictures": {
+            "original": "http://s5.vcdn.biz/static/f/876031731",
+            "105x85": "http://s8.vcdn.biz/static/f/876031731/pt/r105x85",
+            "150x85": "http://s9.vcdn.biz/static/f/876031731/pt/r150x85",
+            "980x560": "http://s3.vcdn.biz/static/f/876031731/pt/r980x560",
+            "105x60": "http://s1.vcdn.biz/static/f/876031731/pt/r105x60",
+            "125x70": "http://s4.vcdn.biz/static/f/876031731/pt/r125x70",
+            "480x330": "http://s1.vcdn.biz/static/f/876031731/pt/r480x330",
+            "1600x520": "http://s4.vcdn.biz/static/f/876031731/pt/r1600x520",
+            "230x130": "http://s5.vcdn.biz/static/f/876031731/pt/r230x130"
+          },
+          "virtual_object_id": "5a4740c5c4d2d662acae823b",
+          "start": "Jan 6, 2018 4:35:00 PM",
+          "start_timestamp": 1515249300,
+          "end": "Jan 6, 2018 6:30:00 PM",
+          "end_timestamp": 1515256200,
+          "grouped_programs": null,
+          "schedule_type": "single"
+        },
+        {
+          "external_id": 324166,
+          "object_id": null,
+          "year": "2011-",
+          "title": "\"Рассмеши комика\", 14 сезон, 17 эп.",
+          "description": "Юмористическое талант-шоу. Чтобы стать участником программы, необходимо успешно пройти закрытый кастинг в Киеве. Далее конкурсанта приглашают на сцену, где он должен заставить улыбнуться или засмеяться двух судей любым способом: рассказывая собственные шутки, анекдоты, разыгрывая пантомимы или миниатюры, исполняя танцы или песни. Участнику дается шесть раундов, каждый из которых длится ровно одну... Украина, 2011-.",
+          "schedule_string": null,
+          "genre": {
+            "id": 10,
+            "external_id": 10,
+            "title": "юмор"
+          },
+          "category": {
+            "id": 8,
+            "external_id": 8,
+            "title": "Другое"
+          },
+          "pictures": {},
+          "virtual_object_id": "5a4740cbc4d2d662acae854d",
+          "start": "Jan 6, 2018 6:30:00 PM",
+          "start_timestamp": 1515256200,
+          "end": "Jan 6, 2018 7:30:00 PM",
+          "end_timestamp": 1515259800,
+          "grouped_programs": null,
+          "schedule_type": "single"
+        },
+        {
+          "external_id": 16681,
+          "object_id": null,
+          "year": null,
+          "title": "ТСН.",
+          "description": null,
+          "schedule_string": null,
+          "genre": {
+            "id": 5,
+            "external_id": 5,
+            "title": "общество и политика"
+          },
+          "category": {
+            "id": 4,
+            "external_id": 4,
+            "title": "новости"
+          },
+          "pictures": {
+            "original": "http://s7.vcdn.biz/static/f/1041446811",
+            "105x85": "http://s9.vcdn.biz/static/f/1041446811/pt/r105x85",
+            "150x85": "http://s5.vcdn.biz/static/f/1041446811/pt/r150x85",
+            "980x560": "http://s2.vcdn.biz/static/f/1041446811/pt/r980x560",
+            "105x60": "http://s9.vcdn.biz/static/f/1041446811/pt/r105x60",
+            "125x70": "http://s7.vcdn.biz/static/f/1041446811/pt/r125x70",
+            "480x330": "http://s1.vcdn.biz/static/f/1041446811/pt/r480x330",
+            "1600x520": "http://s6.vcdn.biz/static/f/1041446811/pt/r1600x520",
+            "230x130": "http://s9.vcdn.biz/static/f/1041446811/pt/r230x130"
+          },
+          "virtual_object_id": "5a4740e3c4d2d662acae8ee6",
+          "start": "Jan 6, 2018 7:30:00 PM",
+          "start_timestamp": 1515259800,
+          "end": "Jan 6, 2018 8:15:00 PM",
+          "end_timestamp": 1515262500,
+          "grouped_programs": null,
+          "schedule_type": "single"
+        },
+        {
+          "external_id": 324140,
+          "object_id": null,
+          "year": null,
+          "title": "\"Новогодний Вечерний квартал\".",
+          "description": null,
+          "schedule_string": null,
+          "genre": {
+            "id": 161,
+            "external_id": 161,
+            "title": "Другое"
+          },
+          "category": {
+            "id": 8,
+            "external_id": 8,
+            "title": "Другое"
+          },
+          "pictures": {},
+          "virtual_object_id": "5a4740e1c4d2d662acae8ddf",
+          "start": "Jan 6, 2018 8:15:00 PM",
+          "start_timestamp": 1515262500,
+          "end": "Jan 6, 2018 11:40:00 PM",
+          "end_timestamp": 1515274800,
+          "grouped_programs": null,
+          "schedule_type": "single"
+        },
+        {
+          "external_id": 16713,
+          "object_id": null,
+          "year": "2005-",
+          "title": "\"Светская жизнь\".",
+          "description": "Интервью во время светских мероприятий с богатыми и знаменитыми персонами, которые волей-неволей раскрывают свои и даже чужие тайны. Украина, 2005-.",
+          "schedule_string": null,
+          "genre": {
+            "id": 134,
+            "external_id": 134,
+            "title": "знаменитости"
+          },
+          "category": {
+            "id": 8,
+            "external_id": 8,
+            "title": "Другое"
+          },
+          "pictures": {
+            "original": "http://s8.vcdn.biz/static/f/1041449271",
+            "105x85": "http://s2.vcdn.biz/static/f/1041449271/pt/r105x85",
+            "150x85": "http://s8.vcdn.biz/static/f/1041449271/pt/r150x85",
+            "980x560": "http://s9.vcdn.biz/static/f/1041449271/pt/r980x560",
+            "105x60": "http://s8.vcdn.biz/static/f/1041449271/pt/r105x60",
+            "125x70": "http://s4.vcdn.biz/static/f/1041449271/pt/r125x70",
+            "480x330": "http://s1.vcdn.biz/static/f/1041449271/pt/r480x330",
+            "1600x520": "http://s8.vcdn.biz/static/f/1041449271/pt/r1600x520",
+            "230x130": "http://s1.vcdn.biz/static/f/1041449271/pt/r230x130"
+          },
+          "virtual_object_id": "5a4740c9c4d2d662acae83e5",
+          "start": "Jan 6, 2018 11:40:00 PM",
+          "start_timestamp": 1515274800,
+          "end": "Jan 7, 2018 12:40:00 AM",
+          "end_timestamp": 1515278400,
+          "grouped_programs": null,
+          "schedule_type": "single"
+        },
+        {
+          "external_id": 324167,
+          "object_id": null,
+          "year": null,
+          "title": "\"Рождественские истории с Тиной Кароль\".",
+          "description": null,
+          "schedule_string": null,
+          "genre": {
+            "id": 161,
+            "external_id": 161,
+            "title": "Другое"
+          },
+          "category": {
+            "id": 8,
+            "external_id": 8,
+            "title": "Другое"
+          },
+          "pictures": {},
+          "virtual_object_id": "5a4740ccc4d2d662acae855c",
+          "start": "Jan 7, 2018 12:40:00 AM",
+          "start_timestamp": 1515278400,
+          "end": "Jan 7, 2018 2:10:00 AM",
+          "end_timestamp": 1515283800,
+          "grouped_programs": null,
+          "schedule_type": "single"
+        },
+        {
+          "external_id": 196352,
+          "object_id": null,
+          "year": null,
+          "title": "\"Без границ\". Концерт группы \"Океан Эльзы\".",
+          "description": null,
+          "schedule_string": null,
+          "genre": {
+            "id": 161,
+            "external_id": 161,
+            "title": "Другое"
+          },
+          "category": {
+            "id": 8,
+            "external_id": 8,
+            "title": "Другое"
+          },
+          "pictures": {},
+          "virtual_object_id": "5a4740d2c4d2d662acae881c",
+          "start": "Jan 7, 2018 2:10:00 AM",
+          "start_timestamp": 1515283800,
+          "end": "Jan 7, 2018 6:15:00 AM",
+          "end_timestamp": 1515298500,
+          "grouped_programs": null,
+          "schedule_type": "single"
+        },
+        {
+          "external_id": 16681,
+          "object_id": null,
+          "year": null,
+          "title": "ТСН.",
+          "description": null,
+          "schedule_string": null,
+          "genre": {
+            "id": 5,
+            "external_id": 5,
+            "title": "общество и политика"
+          },
+          "category": {
+            "id": 4,
+            "external_id": 4,
+            "title": "новости"
+          },
+          "pictures": {
+            "original": "http://s9.vcdn.biz/static/f/1041446811",
+            "105x85": "http://s1.vcdn.biz/static/f/1041446811/pt/r105x85",
+            "150x85": "http://s5.vcdn.biz/static/f/1041446811/pt/r150x85",
+            "980x560": "http://s2.vcdn.biz/static/f/1041446811/pt/r980x560",
+            "105x60": "http://s1.vcdn.biz/static/f/1041446811/pt/r105x60",
+            "125x70": "http://s7.vcdn.biz/static/f/1041446811/pt/r125x70",
+            "480x330": "http://s1.vcdn.biz/static/f/1041446811/pt/r480x330",
+            "1600x520": "http://s5.vcdn.biz/static/f/1041446811/pt/r1600x520",
+            "230x130": "http://s9.vcdn.biz/static/f/1041446811/pt/r230x130"
+          },
+          "virtual_object_id": "5a4740e1c4d2d662acae8dab",
+          "start": "Jan 7, 2018 6:15:00 AM",
+          "start_timestamp": 1515298500,
+          "end": "Jan 7, 2018 7:10:00 AM",
+          "end_timestamp": 1515301800,
+          "grouped_programs": null,
+          "schedule_type": "single"
+        },
+        {
+          "external_id": 324168,
+          "object_id": null,
+          "year": null,
+          "title": "Х/ф \"От тюрьмы и от сумы\".",
+          "description": null,
+          "schedule_string": null,
+          "genre": {
+            "id": 161,
+            "external_id": 161,
+            "title": "Другое"
+          },
+          "category": {
+            "id": 2,
+            "external_id": 2,
+            "title": "кино"
+          },
+          "pictures": {},
+          "virtual_object_id": "5a4740e3c4d2d662acae8ee8",
+          "start": "Jan 7, 2018 7:10:00 AM",
+          "start_timestamp": 1515301800,
+          "end": "Jan 7, 2018 9:00:00 AM",
+          "end_timestamp": 1515308400,
+          "grouped_programs": null,
+          "schedule_type": "single"
+        },
+        {
+          "external_id": 16718,
+          "object_id": null,
+          "year": null,
+          "title": "Лотерея \"Лото-Забава\".",
+          "description": null,
+          "schedule_string": null,
+          "genre": {
+            "id": 13,
+            "external_id": 13,
+            "title": "развлекательные"
+          },
+          "category": {
+            "id": 8,
+            "external_id": 8,
+            "title": "Другое"
+          },
+          "pictures": {
+            "original": "http://s5.vcdn.biz/static/f/1041449441",
+            "105x85": "http://s1.vcdn.biz/static/f/1041449441/pt/r105x85",
+            "150x85": "http://s5.vcdn.biz/static/f/1041449441/pt/r150x85",
+            "980x560": "http://s4.vcdn.biz/static/f/1041449441/pt/r980x560",
+            "105x60": "http://s8.vcdn.biz/static/f/1041449441/pt/r105x60",
+            "125x70": "http://s5.vcdn.biz/static/f/1041449441/pt/r125x70",
+            "480x330": "http://s2.vcdn.biz/static/f/1041449441/pt/r480x330",
+            "1600x520": "http://s1.vcdn.biz/static/f/1041449441/pt/r1600x520",
+            "230x130": "http://s6.vcdn.biz/static/f/1041449441/pt/r230x130"
+          },
+          "virtual_object_id": "5a4740dbc4d2d662acae8b01",
+          "start": "Jan 7, 2018 9:00:00 AM",
+          "start_timestamp": 1515308400,
+          "end": "Jan 7, 2018 9:40:00 AM",
+          "end_timestamp": 1515310800,
+          "grouped_programs": null,
+          "schedule_type": "single"
+        },
+        {
+          "external_id": 16719,
+          "object_id": 1142941,
+          "year": "2009-",
+          "title": "Марусин кинозал. М/с \"Маша и медведь\".",
+          "description": "Жители леса находятся в постоянном страхе. Но боятся они не Медведя, а девочку, которая может наварить варенья из шишек или превратить дом в поле боя. Россия, 2009-. Режиссер: Олег Кузовков. В ролях: Борис Кутневич, Алина Кукушкина, Варвара Саранцева.",
+          "schedule_string": null,
+          "genre": {
+            "id": 22,
+            "external_id": 22,
+            "title": "комедия"
+          },
+          "category": {
+            "id": 1,
+            "external_id": 1,
+            "title": "мультфильмы"
+          },
+          "pictures": {
+            "original": "http://s4.vcdn.biz/static/f/1041449471",
+            "105x85": "http://s2.vcdn.biz/static/f/1041449471/pt/r105x85",
+            "150x85": "http://s2.vcdn.biz/static/f/1041449471/pt/r150x85",
+            "980x560": "http://s7.vcdn.biz/static/f/1041449471/pt/r980x560",
+            "105x60": "http://s9.vcdn.biz/static/f/1041449471/pt/r105x60",
+            "125x70": "http://s5.vcdn.biz/static/f/1041449471/pt/r125x70",
+            "480x330": "http://s8.vcdn.biz/static/f/1041449471/pt/r480x330",
+            "1600x520": "http://s8.vcdn.biz/static/f/1041449471/pt/r1600x520",
+            "230x130": "http://s6.vcdn.biz/static/f/1041449471/pt/r230x130"
+          },
+          "virtual_object_id": "5a4740c2c4d2d662acae806f",
+          "start": "Jan 7, 2018 9:40:00 AM",
+          "start_timestamp": 1515310800,
+          "end": "Jan 7, 2018 9:50:00 AM",
+          "end_timestamp": 1515311400,
+          "grouped_programs": null,
+          "schedule_type": "single"
+        },
+        {
+          "external_id": 324166,
+          "object_id": null,
+          "year": "2011-",
+          "title": "\"Рассмеши комика\", 14 сезон, 17 эп.",
+          "description": "Юмористическое талант-шоу. Чтобы стать участником программы, необходимо успешно пройти закрытый кастинг в Киеве. Далее конкурсанта приглашают на сцену, где он должен заставить улыбнуться или засмеяться двух судей любым способом: рассказывая собственные шутки, анекдоты, разыгрывая пантомимы или миниатюры, исполняя танцы или песни. Участнику дается шесть раундов, каждый из которых длится ровно одну... Украина, 2011-.",
+          "schedule_string": null,
+          "genre": {
+            "id": 10,
+            "external_id": 10,
+            "title": "юмор"
+          },
+          "category": {
+            "id": 8,
+            "external_id": 8,
+            "title": "Другое"
+          },
+          "pictures": {},
+          "virtual_object_id": "5a4740e6c4d2d662acae8fd7",
+          "start": "Jan 7, 2018 9:50:00 AM",
+          "start_timestamp": 1515311400,
+          "end": "Jan 7, 2018 10:45:00 AM",
+          "end_timestamp": 1515314700,
+          "grouped_programs": null,
+          "schedule_type": "single"
+        },
+        {
+          "external_id": 324169,
+          "object_id": null,
+          "year": null,
+          "title": "\"Мир наизнанку. Боливия\", 2-7 эп.",
+          "description": null,
+          "schedule_string": null,
+          "genre": {
+            "id": 161,
+            "external_id": 161,
+            "title": "Другое"
+          },
+          "category": {
+            "id": 8,
+            "external_id": 8,
+            "title": "Другое"
+          },
+          "pictures": {},
+          "virtual_object_id": "5a4740e5c4d2d662acae8f5d",
+          "start": "Jan 7, 2018 10:45:00 AM",
+          "start_timestamp": 1515314700,
+          "end": "Jan 7, 2018 5:45:00 PM",
+          "end_timestamp": 1515339900,
+          "grouped_programs": null,
+          "schedule_type": "single"
+        }
+      ],
+      "pictures": {
+        "original": "http://s4.vcdn.biz/static/f/1042804241",
+        "105x85": "http://s9.vcdn.biz/static/f/1042804241/pt/r105x85",
+        "monochrome_logo": "http://s7.vcdn.biz/static/f/1042914921",
+        "180x180": "http://s2.vcdn.biz/static/f/1042804241/pt/r180x180",
+        "980x560": "http://s8.vcdn.biz/static/f/1042804241/pt/r980x560",
+        "88x65": "http://s1.vcdn.biz/static/f/1042804241/pt/r88x65",
+        "88x88": "http://s3.vcdn.biz/static/f/1042804241/pt/r88x88",
+        "105x105": "http://s5.vcdn.biz/static/f/1042804241/pt/r105x105",
+        "40x40": "http://s9.vcdn.biz/static/f/1042804241/pt/r40x40",
+        "150x150": "http://s3.vcdn.biz/static/f/1042804241/pt/r150x150",
+        "1600x520": "http://s2.vcdn.biz/static/f/1042804241/pt/r1600x520"
+      }
+    }
+  ]
+}
